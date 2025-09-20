@@ -2,7 +2,7 @@ import hero from "./Images/ast.png";
 import DenikPanchang from "./Images/DenikPanchag.jpg";
 import Kundali from "./Images/Kundli.jpg";
 import MatchKundali from "./Images/MatchKundali.jpeg";
-import LiveChat from "./Images/liveChat.jpg";
+import LiveChat from "./Images/LiveChat.jpg";
 
 
 export const assets = {
