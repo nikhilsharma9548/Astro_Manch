@@ -3,7 +3,7 @@ import { assets } from '../assets/assets'
 
 const Hero = () => {
   return (
-    <div className='mt-24 bg-black md:h-[550px] xl:h-[600px] h-screen rounded-xl
+    <div className='md:mt-24 mt-20  bg-black md:h-[550px] xl:h-[600px] h-[550px] rounded-xl
      border-[#ff7811] border-2 shadow-2xl overflow-hidden 
      flex justify-center items-center relative'>
       
