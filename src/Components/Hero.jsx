@@ -10,8 +10,8 @@ const Hero = () => {
       <img 
         src={assets.hero} 
         alt="Hero"
-        className="h-full object-fit max-sm:w-96 max-sm:h-96 hero opacity-50 absolute"
-        style={{ animation: "spin 18s linear infinite" }}
+        className="h-full object-fit max-sm:w-96 max-sm:h-96 hero animate-spin opacity-50 absolute"
+        style={{ animation: "spin 20s linear infinite" }}
       />
 
       <button 
